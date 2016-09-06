@@ -12,6 +12,7 @@ public class Application extends android.app.Application {
         super.onCreate();
         //init volley queue
         //to feature
+        //and
         RequestQueue.init(getApplicationContext());
     }
 }
