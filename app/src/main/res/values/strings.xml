@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Standardization Framework</string>
+    <string name="showtoast">用吐司展示</string>
+    <string name="hint">输入任意长度的文字</string>
+    <string name="showdialog">用弹窗展示</string>
+    <string name="startcountdown">开始倒计时</string>
+    <string name="reset">重置时间</string>
+    <string name="requert">请求网络数据</string>
+    <string name="showresult">展示网络数据</string>
+</resources>
